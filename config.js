@@ -17,7 +17,7 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'PAY BOT'
+global.ownername = 'PAY MODE KULLL'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
